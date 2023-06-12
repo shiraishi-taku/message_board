@@ -6,7 +6,6 @@
         <title>メッセージボード</title>
     </head>
     <body>
-        <body>
         <div id="wrapper">
             <div id="header">
                 <h1>メッセージボード アプリケーション</h1>
